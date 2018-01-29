@@ -4,7 +4,7 @@ Dans un monde ou l'internet des objets est de plus en plus présent, nous vous pr
 
 Le projet est divisé en plusieurs parties : 
 
--Arduino : On utilise une carte Arduino 101 ainsi que différents capteurs (intensité du son et température).
+- Arduino : On utilise une carte Arduino 101 ainsi que différents capteurs (intensité du son et température).
 
 - Server : Il permet d'intéragir avec Alexa, notre amie qui se trouve enfermé dans l'amazon écho.
 
